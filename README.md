@@ -1,2 +1,2 @@
-# Hackerearth
-It contains the code/solutions of all code monk challenges in Python 3(python 3.5.2)
+# Python Codes
+It contains the codes/solutions of some of the important Python 3(python 3.5.2) problems.
